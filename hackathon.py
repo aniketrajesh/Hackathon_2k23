@@ -1,5 +1,4 @@
 import pandas as pd
-from sklearn.preprocessing import normalize, MinMaxScaler
 import streamlit as st
 import joblib
 import pandas as pd
