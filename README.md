@@ -2,7 +2,7 @@
 
 1. The given code can be used to show a machine learning model with the use of a Streamlit app. https://codebusters.streamlit.app/
 
-3. The dataset was acquired from the following link: https://geo-massdot.opendata.arcgis.com/datasets/mbta-bus-stops/explore?location=42.390369%2C-71.004835%2C13.73
+3. The dataset was acquired from the following link: https://mbta-massdot.opendata.arcgis.com/datasets/MassDOT::mbta-bus-arrival-departure-times-2023/about
 
 4. The main objective of the code is to predict the estimated waitng time by showing the delays across 6 intervals in a day
 
