@@ -1,6 +1,4 @@
-# Hackathon_2k23
-
-# Predition of MBTA bus delay times of route 8
+# Prediction of MBTA bus delay times of route 8
 
 1. The given code can be used to show a machine learning model with the use of a Streamlit app.
 
