@@ -16,7 +16,7 @@
    
 7. The analysis of our model:
    
-  Mean Absolute Error: 263.33
-  Mean Squared Error: 204018.77
-  Root Mean Squared Error: 451.68
+  Mean Absolute Error: 263.33\n
+  Mean Squared Error: 204018.77\n
+  Root Mean Squared Error: 451.68\n
   R-squared: 0.11
