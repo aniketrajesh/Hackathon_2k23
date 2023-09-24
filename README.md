@@ -1,12 +1,12 @@
 # Prediction of MBTA bus delay times of route 8
 
-1. The given code can be used to show a machine learning model with the use of a Streamlit app.
+1. The given code can be used to show a machine learning model with the use of a Streamlit app. https://codebusters.streamlit.app/
 
-2. The dataset was acquired from the following link: https://geo-massdot.opendata.arcgis.com/datasets/mbta-bus-stops/explore?location=42.390369%2C-71.004835%2C13.73
+3. The dataset was acquired from the following link: https://geo-massdot.opendata.arcgis.com/datasets/mbta-bus-stops/explore?location=42.390369%2C-71.004835%2C13.73
 
-3. The main objective of the code is to predict the estimated waitng time by showing the delays across 6 intervals in a day
+4. The main objective of the code is to predict the estimated waitng time by showing the delays across 6 intervals in a day
 
-4. The dataset was filtered with route_id as 8. This means we considered the bus that navigates along route 8 which is catered to the Umass Boston community.
+5. The dataset was filtered with route_id as 8. This means we considered the bus that navigates along route 8 which is catered to the Umass Boston community.
 
 4. We set the X train as the stop_id concatenated with each interval across the day and Y-train to be time difference, which is the difference between scheduled time and actual time.
 
