@@ -13,3 +13,10 @@
 5. The data was trained with the help of linear regression model
 
 6. The user can access our website and select the stop name and interval time to their convenience and our model would predict the wait time and suggest if the the bus is delayed or early
+   
+7. The analysis of our model:
+   
+  Mean Absolute Error: 263.33
+  Mean Squared Error: 204018.77
+  Root Mean Squared Error: 451.68
+  R-squared: 0.11
